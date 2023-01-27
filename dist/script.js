@@ -18,7 +18,7 @@ closeCart.addEventListener("click", function () {
 const product = [
   {
     id: 0,
-    image: "/src/products/product-1.webp",
+    image: "./src/products/product-1.webp",
     title: "Brown Jacket",
     price: 25,
   },
